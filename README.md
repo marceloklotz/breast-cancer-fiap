@@ -23,5 +23,5 @@ https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
 O vídeo explicativo com a demonstração do sistema em execução com breve explicação do fluxo foi disponbilizado a partir do seguinte link:
 ==> incluir URL <==
 
-# ⚠️ OBSERVAÇÃO:
+# ⚠️ Observação
 Esse repositório é um laboratório de um dos membros do grupo (Klotz). O repositório final do grupo está em fase final de criação.
