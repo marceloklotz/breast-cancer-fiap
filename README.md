@@ -21,11 +21,16 @@ https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
 
 ## 📒 Relatório técnico
 
-O relatório técnico explicando as estratégias de pré-processamento, os modelos utilizados, as justificativas para as escolhas dos modelos, os resultados obtidos e a interpretação do dados, está disponível na árvore deste repositório. O download pode ser feito diretamente pelo seguinte link: ==> incluir URL <==.
+O relatório técnico descreve o desafio proposto e a forma de exploração de dados adotada pelos membros do grupo, explicando as estratégias de pré-processamento e limpeza dos dados, os modelos avaliados e utilizados, os resultados obtidos, a interpretação do dados, além da aplicabilidade prática e as lições aprendidas durante o desenvolvimento da atividade acadêmica.
+
+O download do relatório pode ser feito diretamente pelo seguinte link: 
+
+==> incluir URL <==.
 
 ## 📽️ Vídeo de demonstração
 
 O vídeo explicativo com a demonstração do sistema em execução com breve explicação do fluxo foi disponbilizado a partir do seguinte link:
+
 ==> incluir URL <==
 
 ## ⚠️ Observação
