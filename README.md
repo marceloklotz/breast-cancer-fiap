@@ -16,8 +16,7 @@ https://drive.google.com/file/d/1S0AFHSrN5C61pmBsxNA3JXFt_t1X7KU7/view?ts=6925fc
 ## 🎲 Base de dados
 
 Para esse trabalho foi utilizada a seguinte base de dados disponível em Kaggle:
-
-https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
+- https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
 
 ## 📒 Relatório técnico
 
