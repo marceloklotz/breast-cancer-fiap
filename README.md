@@ -25,13 +25,13 @@ O relatório técnico descreve o desafio proposto e a forma de exploração de d
 
 O download do relatório pode ser feito diretamente pelo seguinte link: 
 
-==> incluir URL <==.
+[==> incluir URL <==.]{#)
 
 ## 📽️ Vídeo de demonstração
 
 O vídeo explicativo com a demonstração do sistema em execução com breve explicação do fluxo foi disponbilizado a partir do seguinte link:
 
-==> incluir URL <==
+[==> incluir URL <==.]{#)
 
 ## ⚠️ Observação
 Esse repositório é um laboratório de um dos membros do grupo (Klotz). O repositório final do grupo está em fase final de criação.
