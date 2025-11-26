@@ -22,6 +22,24 @@ De acordo com as informações disponibilizadas pelo engenheiro responsável pel
 
 O data set foi compartilhado justamente para esse tipo de análise de classificação de tumores a partir do aprendizado de máquina (com SVMs).
 
+# Pós IA para DEVS - Tech Challenge: Classificação de Câncer de Mama
+
+## 1. Introdução: Entendimento do Problema e Escolha do Modelo
+
+Este projeto de Machine Learning supervisionado aborda a tarefa de **classificação** para prever se um tumor de mama é **maligno (M)** ou **benigno (B)**, com base em características morfológicas de núcleos celulares extraídas de biópsias.
+
+## 🔄 Aplicação do Ciclo de Vida do ML
+
+O projeto seguiu o **Ciclo de Vida do ML** em sete etapas, garantindo uma solução robusta e organizada:
+1.  **Coleta e Preparação dos Dados:** Carregamento, limpeza e análise exploratória (EDA).
+2.  **Pré-processamento:** Normalização, *encoding* e separação de conjuntos (treino/teste).
+3.  **Modelagem e Treinamento:** Uso de múltiplos modelos clássicos de classificação.
+4.  **Avaliação e Teste:** Comparação de métricas (priorizando **Recall** e **F1-Score**).
+5.  **Interpretação:** Uso de Feature Importance e SHAP para explicar as decisões do modelo.
+6.  **Conclusão:** Interpretação crítica da aplicabilidade, riscos e limitações.
+    
+ [Image of MACHINE LEARNING LIFE-CYCLE diagram]
+
 ## 📒 Relatório técnico
 
 O relatório técnico descreve o desafio proposto e a forma de exploração de dados adotada pelos membros do grupo, explicando as estratégias de pré-processamento e limpeza dos dados, os modelos avaliados e utilizados, os resultados obtidos, a interpretação do dados, além da aplicabilidade prática e as lições aprendidas durante o desenvolvimento da atividade acadêmica.
