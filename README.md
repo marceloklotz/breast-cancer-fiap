@@ -15,7 +15,7 @@ https://drive.google.com/file/d/1S0AFHSrN5C61pmBsxNA3JXFt_t1X7KU7/view?ts=6925fc
 
 ## 🎲 Base de dados
 
-Para esse trabalho foi utilizada a seguinte base de dados disponível em Kaggle sob domínio público, a partir da conta do sr. "M Yasser H" (Bengaluru, Karnataka, India), que se descreve como sendo "Engenheiro de IA e ML na MediaAgility". Segundo o autor, os dados são oriundos do "Breast Cancer Wisconsin (Diagnostic)":
+Para esse trabalho foi utilizada a seguinte base de dados disponível em Kaggle sob domínio público, fornecida pela conta do sr. "M Yasser H" (Bengaluru, Karnataka, India), que se descreve como sendo "Engenheiro de IA e ML na MediaAgility". Segundo o autor, os dados são oriundos do "Breast Cancer Wisconsin (Diagnostic)":
 - https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
 
 De acordo com as informações disponibilizadas pelo engenheiro responsável pela base de dados no Kaggle (YASSER), o *"câncer de mama é o câncer mais comum entre as mulheres no mundo. Ele representa 25% de todos os casos de câncer e afetou mais de 2,1 milhões de pessoas apenas em 2015. Ele começa quando as células da mama iniciam um crescimento descontrolado. Essas células geralmente formam tumores que podem ser vistos por meio de raio-X ou sentidos como caroços na área da mama"*. Sendo o principal desafio em sua detecção a classificação de tumores em malignos (cancerosos) ou benignos (não cancerosos). 
