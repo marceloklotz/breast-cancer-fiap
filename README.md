@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1S0AFHSrN5C61pmBsxNA3JXFt_t1X7KU7/view?ts=6925fc
 
 ## 👥 Integrantes do grupo
 
-- Alexandre Natã (rm370024)
+- Alexandre Natã Vicente (rm370024)
 - Antônio Cláudio (incluir RM)
 - Cyd Ferreira Rodrigues (incluir RM)
 - David Catherink (incluir RM)
