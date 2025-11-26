@@ -6,6 +6,7 @@ O notebook final do grupo foi incluído em:
 https://drive.google.com/file/d/1S0AFHSrN5C61pmBsxNA3JXFt_t1X7KU7/view?ts=6925fcc6
 
 ## 👥 Integrantes do grupo
+Os membros do grupo são compostos pelos seguintes servidores da Secretaria de Segurança Pública do Distrito Federal (SSP/DF):
 
 - Alexandre Natã Vicente (**rm370024**) (ale.n.vicente@gmail.com)
 - Antônio Cláudio (incluir RM) (antonioalmeida@gmail.com)
