@@ -16,7 +16,12 @@ https://drive.google.com/file/d/1S0AFHSrN5C61pmBsxNA3JXFt_t1X7KU7/view?ts=6925fc
 ## 🎲 Base de dados
 
 Para esse trabalho foi utilizada a seguinte base de dados disponível em Kaggle:
+
 https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
+
+## 📒 Relatório técnico
+
+O relatório técnico explicando as estratégias de pré-processamento, os modelos utilizados, as justificativas para as escolhas dos modelos, os resultados obtidos e a interpretação do dados, está disponível na árvore deste repositório. O download pode ser feito diretamente pelo seguinte link: ==> incluir URL <==.
 
 ## 📽️ Vídeo de demonstração
 
