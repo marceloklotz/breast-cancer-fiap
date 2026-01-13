@@ -9,7 +9,7 @@ https://github.com/marceloklotz/breast-cancer-fiap/blob/main/FIAP_Challenge_Brea
 Os membros do grupo são compostos pelos seguintes servidores da Secretaria de Segurança Pública do Distrito Federal (SSP/DF):
 
 - Alexandre Natã Vicente (**rm370024**) (ale.n.vicente@gmail.com)
-- Antônio Cláudio (**rm370052**) (antonioalmeida@gmail.com)
+- Antônio Cláudio Almeida (**rm370052**) (antonioalmeida@gmail.com)
 - Cyd Ferreira Rodrigues (**rm370004**) (cydnelson@gmail.com)
 - David Catherink (**rm369997**) (d.catherinck@gmail.com)
 - Marcelo Macedo Klotz (**rm370010**) (marceloklotz@gmail.com)
