@@ -34,7 +34,7 @@ O relatório técnico descreve o desafio proposto e a forma de exploração de d
 
 O download do relatório pode ser feito diretamente pelo seguinte link: 
 
-- [[==> incluir URL <==](https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Relat%C3%B3rio%20T%C3%A9cnico%20-%20FIAP.pdf)]([https://github.com/marceloklotz/breast-cancer-fiap/blob/main/README.md#](https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Relat%C3%B3rio%20T%C3%A9cnico%20-%20FIAP.pdf))
+- [https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Relat%C3%B3rio%20T%C3%A9cnico%20-%20FIAP.pdf](https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Relat%C3%B3rio%20T%C3%A9cnico%20-%20FIAP.pdf)]([https://github.com/marceloklotz/breast-cancer-fiap/blob/main/README.md#](https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Relat%C3%B3rio%20T%C3%A9cnico%20-%20FIAP.pdf))
 
 ## 📽️ Vídeo de demonstração
 
