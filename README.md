@@ -40,4 +40,4 @@ O download do relatório pode ser feito diretamente pelo seguinte link:
 
 O vídeo explicativo sobre a metologia, resultados e notebook em execução foi disponbilizado a partir do seguinte link:
 
-- [https://drive.google.com/file/d/1jEgK7f1zlkkPWobN2bP6V9HwsIgoR-t3/view?usp=sharing](https://drive.google.com/file/d/1jEgK7f1zlkkPWobN2bP6V9HwsIgoR-t3/view?usp=sharing)
+- [https://www.youtube.com/watch?v=8BE0_HIzjS8](https://www.youtube.com/watch?v=8BE0_HIzjS8)
