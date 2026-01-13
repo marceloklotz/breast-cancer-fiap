@@ -3,7 +3,7 @@
 Trata-se de repositório para o desafio proposto (Tech Challenge) durante a primeira fase da Pós Tech (8IADT) da Faculdade de Informática e Administração Paulista (FIAP), conforme instruções contidas no PDF fornecido [(Tech Challenge - Fase 1.pdf)](https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Tech%20Challenge%20-%20Fase%201.pdf), que teve como objetivo a construção de *"uma solução inicial com foco em IA para processamento de exames médicos e documentos clínicos, aplicando fundamentos essenciais de IA, Machine Learning e Visão Computacional"*, com foco no diagnóstico de câncer de mama (tumor maligno ou benigno).
 
 O notebook final do grupo foi incluído em:
-https://drive.google.com/file/d/1S0AFHSrN5C61pmBsxNA3JXFt_t1X7KU7/view?ts=6925fcc6
+
 
 ## 👥 Integrantes do grupo
 Os membros do grupo são compostos pelos seguintes servidores da Secretaria de Segurança Pública do Distrito Federal (SSP/DF):
@@ -16,16 +16,11 @@ Os membros do grupo são compostos pelos seguintes servidores da Secretaria de S
 
 ## 🎲 Base de dados
 
-Para esse trabalho foi utilizada a seguinte base de dados disponível em Kaggle sob domínio público, fornecida pela conta do sr. "M Yasser H" (Bengaluru, Karnataka, India), que se descreve como sendo "Engenheiro de IA e ML na MediaAgility". Segundo o autor, os dados são oriundos do "Breast Cancer Wisconsin (Diagnostic)":
-- https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
-
-De acordo com as informações disponibilizadas pelo engenheiro responsável pela base de dados no Kaggle (YASSER), o *"câncer de mama é o câncer mais comum entre as mulheres no mundo. Ele representa 25% de todos os casos de câncer e afetou mais de 2,1 milhões de pessoas apenas em 2015. Ele começa quando as células da mama iniciam um crescimento descontrolado. Essas células geralmente formam tumores que podem ser vistos por meio de raio-X ou sentidos como caroços na área da mama"*. Sendo o principal desafio em sua detecção a classificação de tumores em malignos (cancerosos) ou benignos (não cancerosos). 
-
-O data set foi compartilhado justamente para esse tipo de análise de classificação de tumores a partir do aprendizado de máquina (com SVMs).
+O banco de dados escolhido foi o Breast Cancer Wisconsin, o qual contém atributos morfológicos extraídos de imagens digitalizadas de biópsias de tumores de mama. O problema abordado é de classificação binária, distinguindo tumores benignos e malignos. Neste cenário, erros do tipo falso negativo possuem elevado custo clínico.
 
 ## 🔄 Aplicação do Ciclo de Vida do ML
 
-O projeto seguiu o **Ciclo de Vida do ML** em sete etapas, garantindo uma solução robusta e organizada:
+O projeto seguiu o **Ciclo de Vida do ML**, garantindo uma solução robusta e organizada a partir das seguintes etapas executadas:
 1.  **Coleta e Preparação dos Dados:** Carregamento, limpeza e análise exploratória (EDA).
 2.  **Pré-processamento:** Normalização, *encoding* e separação de conjuntos (treino/teste).
 3.  **Modelagem e Treinamento:** Uso de múltiplos modelos clássicos de classificação.
@@ -33,8 +28,6 @@ O projeto seguiu o **Ciclo de Vida do ML** em sete etapas, garantindo uma soluç
 5.  **Interpretação:** Uso de Feature Importance e SHAP para explicar as decisões do modelo.
 6.  **Conclusão:** Interpretação crítica da aplicabilidade, riscos e limitações.
     
- [Image of MACHINE LEARNING LIFE-CYCLE diagram]
-
 ## 📒 Relatório técnico
 
 O relatório técnico descreve o desafio proposto e a forma de exploração de dados adotada pelos membros do grupo, explicando as estratégias de pré-processamento e limpeza dos dados, os modelos avaliados e utilizados, os resultados obtidos, a interpretação do dados, além da aplicabilidade prática e as lições aprendidas durante o desenvolvimento da atividade acadêmica.
