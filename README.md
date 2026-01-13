@@ -47,7 +47,7 @@ O download do relatório pode ser feito diretamente pelo seguinte link:
 
 O vídeo explicativo com a demonstração do sistema em execução com breve explicação do fluxo foi disponbilizado a partir do seguinte link:
 
-- [[==> incluir URL <==](https://drive.google.com/file/d/1jEgK7f1zlkkPWobN2bP6V9HwsIgoR-t3/view?usp=sharing)](**https://drive.google.com/file/d/1jEgK7f1zlkkPWobN2bP6V9HwsIgoR-t3/view?usp=sharing**)
+- [https://drive.google.com/file/d/1jEgK7f1zlkkPWobN2bP6V9HwsIgoR-t3/view?usp=sharing](https://drive.google.com/file/d/1jEgK7f1zlkkPWobN2bP6V9HwsIgoR-t3/view?usp=sharing)
 
 ## ⚠️ Observação
 Esse repositório é um laboratório de um dos membros do grupo (Klotz). O repositório final do grupo está em fase final de criação.
