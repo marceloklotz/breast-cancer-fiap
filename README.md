@@ -38,6 +38,6 @@ O download do relatório pode ser feito diretamente pelo seguinte link:
 
 ## 📽️ Vídeo de demonstração
 
-O vídeo explicativo com a demonstração do sistema em execução com breve explicação do fluxo foi disponbilizado a partir do seguinte link:
+O vídeo explicativo sobre a metologia, resultados e notebook em execução foi disponbilizado a partir do seguinte link:
 
 - [https://drive.google.com/file/d/1jEgK7f1zlkkPWobN2bP6V9HwsIgoR-t3/view?usp=sharing](https://drive.google.com/file/d/1jEgK7f1zlkkPWobN2bP6V9HwsIgoR-t3/view?usp=sharing)
