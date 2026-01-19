@@ -1,6 +1,6 @@
 # 🏫👨‍💻 Tech Challenge - Pós Tech (8IADT) FIAP - Fase 1 
 
-Trata-se de repositório para o desafio proposto (Tech Challenge) durante a primeira fase da Pós Tech (8IADT) da Faculdade de Informática e Administração Paulista (FIAP), conforme instruções contidas no PDF fornecido [(Tech Challenge - Fase 1.pdf)](https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Tech%20Challenge%20-%20Fase%201.pdf), que teve como objetivo a construção de *"uma solução inicial com foco em IA para processamento de exames médicos e documentos clínicos, aplicando fundamentos essenciais de IA, Machine Learning e Visão Computacional"*, com foco no diagnóstico de câncer de mama (tumor maligno ou benigno).
+Trata-se de repositório para o desafio proposto (Tech Challenge) durante a primeira fase da Pós Tech (8IADT) da Faculdade de Informática e Administração Paulista (FIAP), conforme instruções contidas no PDF fornecido [(Tech Challenge - Fase 1.pdf)](https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Relat%C3%B3rio%20T%C3%A9cnico%20com%20atividade%20extra.pdf), que teve como objetivo a construção de *"uma solução inicial com foco em IA para processamento de exames médicos e documentos clínicos, aplicando fundamentos essenciais de IA, Machine Learning e Visão Computacional"*, com foco no diagnóstico de câncer de mama (tumor maligno ou benigno).
 
 O notebook final do grupo foi incluído em:
 https://github.com/marceloklotz/breast-cancer-fiap/blob/main/FIAP_Challenge_Breast_Cancer.ipynb
