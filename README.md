@@ -34,10 +34,15 @@ O relatório técnico descreve o desafio proposto e a forma de exploração de d
 
 O download do relatório pode ser feito diretamente pelo seguinte link: 
 
-- [https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Relat%C3%B3rio%20T%C3%A9cnico%20-%20FIAP.pdf](https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Relat%C3%B3rio%20T%C3%A9cnico%20-%20FIAP.pdf)
+- [https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Tech%20Challenge%20-%20Fase%201.pdf](https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Tech%20Challenge%20-%20Fase%201.pdf)
 
 ## 📽️ Vídeo explicativo
 
 O vídeo explicativo sobre a metologia, resultados e notebook em execução foi disponbilizado a partir do seguinte link:
 
 - [https://www.youtube.com/watch?v=8BE0_HIzjS8](https://www.youtube.com/watch?v=8BE0_HIzjS8)
+
+## ➕ Atividade Extra
+
+A seguir link para atividade extra (notebook) realizada pelo grupo com uso de redes neurais convolucionais (CNNs) para o diagnóstico a partir de imagens médicas:
+- [https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Atividade_Extra.ipynb](https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Atividade_Extra.ipynb)
